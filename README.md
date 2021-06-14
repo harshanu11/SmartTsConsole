@@ -1,0 +1,2 @@
+# SmartTsConsole
+typescript testing repo
